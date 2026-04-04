@@ -38,7 +38,7 @@
 
 <script src="script.js"></script>
 
-</body>
+
 </html>
 body {
   margin: 0;
@@ -106,3 +106,4 @@ header {
 function toggleDark() {
   document.body.classList.toggle("dark");
 }
+</body>
